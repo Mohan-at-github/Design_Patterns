@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bird_Impl_SOILD_Principle.iml" filepath="$PROJECT_DIR$/Bird_Impl_SOILD_Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design_Patterns_Java.iml" filepath="$PROJECT_DIR$/Design_Patterns_Java.iml" />
     </modules>
   </component>
 </project>

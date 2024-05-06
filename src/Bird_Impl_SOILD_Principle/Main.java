@@ -1,3 +1,5 @@
+package Bird_Impl_SOILD_Principle;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -9,5 +11,5 @@ public class Main {
         bird2.dance();
         bird2.fly();
         bird2.makeSound();
-        }
+    }
 }
